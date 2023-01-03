@@ -134,8 +134,8 @@ button {
 /*HERO*/
 .main-container {
   display: flex;
-  padding-top: 96px;
-  padding-bottom: 72px;
+  margin-top: 96px;
+  margin-bottom: 72px;
 }
 
 .button-container {
