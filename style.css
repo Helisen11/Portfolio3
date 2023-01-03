@@ -134,7 +134,6 @@ button {
 /*HERO*/
 .main-container {
   display: flex;
-  margin-top: 96px;
   margin-bottom: 72px;
 }
 
@@ -190,6 +189,7 @@ button {
 /*MAIN PROGECTS PICTURES*/
 
 .section {
+  padding-top: 96px;
   padding-bottom: 120px;
 }
 .progects {
